@@ -11,13 +11,13 @@ The platform enables Employees, Managers, and Admins to collaboratively manage g
 ## Frontend
 
 ```text id="n4x8qt"
-[YOUR_VERCEL_URL]
+https://goal-tracker-saas.vercel.app/login
 ```
 
 ## Backend API
 
 ```text id="w8z2yr"
-[YOUR_RENDER_URL]
+https://goal-tracker-saas.onrender.com
 ```
 
 ---
